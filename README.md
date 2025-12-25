@@ -14,7 +14,7 @@ This project demonstrates a full data science workflow, including data cleaning,
 - Generated insights and summary statistics  
 
 ## Technical Skills Used
-- **Languages:** Python  
-- **Libraries:** pandas, numpy, matplotlib, seaborn  
+- **Languages:** Python, SQL
+- **Libraries:** pandas, PostgreSQL,numpy, matplotlib, seaborn
 - **Tools:** Jupyter Notebook, Git/GitHub  
 - **Techniques:** Data cleaning, EDA, feature engineering, visualization  
